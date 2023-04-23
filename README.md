@@ -18,27 +18,26 @@ ngSpice, Verilog, Arduino, x86
 Assembly Language, LTspice, MAGIC, Multisim, Fusion 360, Content Writing, Logo Designing.
 
 --------------------------------------
-![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arya-Ayra&show_icons=true&theme=radical)
+![Ananya's GitHub stats]([https://github-readme-stats.vercel.app/api?username=AnanyaV2004&show_icons=true&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=AnanyaV2004))
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-Ayra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaV2004)
 --------------------------------------
 ### More about me... <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
 
-<!-- - 🔭 I’m currently learning  Node.js, Express.js, React, MongoDB, etc 💻. -->
-<!-- - 🌱 I’m currently learning Full Stack Development 🚀. -->
-- ⚡  I'm getting better at Competative Programming.
-- 💻 I have worked on C++, Java, Python, HTML/CSS, Javascript, React, Nodejs, Expressjs, MySQL, MongoDB, Git, Docker, etc.
+- I’m currently learning  Node.js, Express.js, React, MongoDB, etc 💻.
+- 🌱 I’m currently learning Full Stack Development 🚀.
+- ⚡  I'm getting better at Competitive Programming.
+- 💻 I have worked on C++, Javascript, Python, HTML/CSS, React, Matlab, Verilog, Arduino, Git etc.
 - 💬 Ask me about anything! I am happy to help and guide you.
-- ⚡ Fun fact: I can keep coding for days without you even realizing it👨‍💻
 
 
 --------------------------------------
 
-### What clubs am I in @IIIT-H
+### Clubs I am part of
 
-- ERC -> Robotics Club @IIIT H
+- ERC -> Electronics & Robotics Club @IIIT H
 - TDC -> The Dance Crew @IIIT H
-- ArtSoc -> Art Society @IIIT H
+- Decore @IIIT H
 --------------------------------------------
 <!-- 
 
