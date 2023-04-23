@@ -7,6 +7,8 @@ My passion lies in the realm of software development and engineering, with a par
 
 I am comfortable with competitive programming too. I love coding and am a commited and dedicated learner.
 
+I am also a Bharatanatyam dancer undergoing professional training under Nenita Praveen from the past 7 years.
+
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"> I am Ananya Vaibhavi</h1>
 
@@ -18,9 +20,10 @@ ngSpice, Verilog, Arduino, x86
 Assembly Language, LTspice, MAGIC, Multisim, Fusion 360, Content Writing, Logo Designing.
 
 --------------------------------------
-![Ananya's GitHub stats]([https://github-readme-stats.vercel.app/api?username=AnanyaV2004&show_icons=true&theme=radical](https://github-readme-streak-stats.herokuapp.com/?user=AnanyaV2004))
+![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnanyaV2004&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaV2004)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaV2004) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaV2004&layout=compact&theme=vision-friendly-dark)
 --------------------------------------
 ### More about me... <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px">
 
@@ -32,8 +35,7 @@ Assembly Language, LTspice, MAGIC, Multisim, Fusion 360, Content Writing, Logo D
 
 
 --------------------------------------
-
-### Clubs I am part of
+### Clubs I am part of:
 
 - ERC -> Electronics & Robotics Club @IIIT H
 - TDC -> The Dance Crew @IIIT H
@@ -67,17 +69,9 @@ Assembly Language, LTspice, MAGIC, Multisim, Fusion 360, Content Writing, Logo D
 <!-- ICONS SOURCE: https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg -->
 ------------------------------------------------------
 <p align="center">
-<img src="https://camo.githubusercontent.com/fccc48b6169ceac0aefe692ba3b97edd8ddcf66284362fec64c4117bbfb1c1ad/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966" width="300px">
-  </p>
-<span>
-<p align="center">
 Show some ❤️ by starring some of the repositories!
  </p>
   </span>
-  
-<span>
-  <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
-</span>
 
 
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats) -->
